@@ -12,3 +12,14 @@
 - E-books
 
 ----------------
+## Roadmap to DSA
+1. Choose a programming langauage that suits your purpose
+  - Language to opt for (Best for beginners):
+    - C
+     
+    - [C++](https://www.tutorialspoint.com/cplusplus/index.htm)
+    - [Python](https://www.w3schools.com/python/)
+    - [Java](https://www.javatpoint.com/java-tutorial)
+2. Learn about Time and space complexities
+  - Topics to cover: 
+    
