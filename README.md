@@ -14,29 +14,33 @@
 ----------------
 ## Quick guide to DSA
 ### Choose a programming langauage that suits your purpose
-  - _Language to opt for (Best for beginners)_:
-    - [C](https://www.tutorialspoint.com/cprogramming/index.htm)  
-    - [C++](https://www.tutorialspoint.com/cplusplus/index.htm)
-    - [Python](https://www.w3schools.com/python/)
-    - [Java](https://www.javatpoint.com/java-tutorial)
+_Language to opt for (Best for beginners)_:
+- [C](https://www.tutorialspoint.com/cprogramming/index.htm)  
+- [C++](https://www.tutorialspoint.com/cplusplus/index.htm)
+- [Python](https://www.w3schools.com/python/)
+- [Java](https://www.javatpoint.com/java-tutorial)
+
 ### Learn about Complexities
-  - _Topics to cover_: 
-    - [Time Complexitiy](https://www.codingninjas.com/blog/2021/07/21/time-and-space-complexity-in-algorithms/)
-    - [Space Complexity](https://www.codingninjas.com/blog/2021/07/21/time-and-space-complexity-in-algorithms/)
-    - [Analysis of Algorithm](https://www.tutorialspoint.com/design_and_analysis_of_algorithms/analysis_of_algorithms.htm#:~:text=Analysis%20of%20algorithms%20is%20the,memory%2C%20known%20as%20space%20complexity.)
-    - [Asymptotic notation](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm)
+_Topics to cover_: 
+- [Time Complexitiy](https://www.codingninjas.com/blog/2021/07/21/time-and-space-complexity-in-algorithms/)
+- [Space Complexity](https://www.codingninjas.com/blog/2021/07/21/time-and-space-complexity-in-algorithms/)
+- [Analysis of Algorithm](https://www.tutorialspoint.com/design_and_analysis_of_algorithms/analysis_of_algorithms.htm#:~:text=Analysis%20of%20algorithms%20is%20the,memory%2C%20known%20as%20space%20complexity.)
+ - [Asymptotic notation](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm)
+ 
 ### Learn about Data Structure
-  - _Topics to cover_:
-    - [Array](https://www.javatpoint.com/data-structure-array)
-    - [Searching and Sorting](https://www.lkouniv.ac.in/site/writereaddata/siteContent/202003251324427324himanshu_Searching_Sorting.pdf)
-    - [Linked list](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
-    - [Stack](https://www.journaldev.com/35172/stack-in-c#:~:text=A%20stack%20is%20a%20linear,at%20one%20endpoint%20of%20it.)
-    - [Queue](https://www.journaldev.com/36220/queue-in-c#:~:text=A%20queue%20in%20C%20is,a%20bus%2Dticket%20booking%20stall.)
-    - [Tree](https://www.geeksforgeeks.org/introduction-to-tree-data-structure/)
-    - [Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
-    - [Graph](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/)
-    - [Heap](https://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm)
-    - [Hashing](https://www.section.io/engineering-education/hashing-in-data-structures/#:~:text=Hashing%20is%20the%20process%20of,table%20called%20a%20hash%20table.)
+_Topics to cover_:
+- [Array](https://www.javatpoint.com/data-structure-array)
+- [Strings](https://www.tutorialandexample.com/strings-in-data-structures)
+- [Searching and Sorting](https://www.lkouniv.ac.in/site/writereaddata/siteContent/202003251324427324himanshu_Searching_Sorting.pdf)
+- [Linked list](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+- [Stack](https://www.journaldev.com/35172/stack-in-c#:~:text=A%20stack%20is%20a%20linear,at%20one%20endpoint%20of%20it.)
+- [Queue](https://www.journaldev.com/36220/queue-in-c#:~:text=A%20queue%20in%20C%20is,a%20bus%2Dticket%20booking%20stall.)
+- [Tree](https://www.geeksforgeeks.org/introduction-to-tree-data-structure/)
+- [Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+- [Graph](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/)
+- [Heap](https://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm)
+- [Hashing](https://www.section.io/engineering-education/hashing-in-data-structures/#:~:text=Hashing%20is%20the%20process%20of,table%20called%20a%20hash%20table.)
+
 ### Practice problems related to DSA
   - _Online Judges_:
     - [Leetcode](https://leetcode.com/problemset/all/)
@@ -45,6 +49,14 @@
     - [HackerRank](https://www.hackerrank.com/)
     - [VJudge](https://vjudge.net/problem)
     - [Codechef](https://www.codechef.com/)
+
+## ROADMAP TO DSA
+### WEEK 1 : [ARRAY] and "STRINGS"
+  Topics to look for
+    - 
+
+
+
 ## Resources
 ### Website for DSA:
 - Geeks for Geeks
