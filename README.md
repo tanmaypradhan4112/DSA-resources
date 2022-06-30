@@ -10,6 +10,7 @@
 - Websites
 - Youtube Channels
 - E-books
+- DSA sheets
 
 ----------------
 ## Quick guide to DSA
@@ -50,7 +51,7 @@ _Topics to cover_:
     - [VJudge](https://vjudge.net/problem)
     - [Codechef](https://www.codechef.com/)
 
-## ROADMAP TO DSA
+## ROADMAP TO DS
 ### WEEK 1 : [ARRAY] and "STRINGS"
   Topics to look for
     - 
@@ -58,7 +59,7 @@ _Topics to cover_:
 
 
 ## Resources
-### Website for DSA:
+### Website for DS:
 - Geeks for Geeks
 - Tutorialspoint
 - Javapoint
@@ -66,14 +67,14 @@ _Topics to cover_:
 - Freecodecamp
 - CodeStudio
 
-### Youtube for DSA
+### Youtube for DS
 - [CodewithHarry](https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
 - [Apna College](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - [LoveBabbar](https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - [Kunal Kushwaha](https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
 
-### E-books for DSA
+### E-books for DS
 - [Data Structures and Algorithm Made Easy -Narasimha Karumanchi](https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html)
 - [Classic Data Structures -Debasis Samanta](https://sonucgn.files.wordpress.com/2018/01/data-structures-by-d-samantha.pdf)
 - [Introduction to Algorithm -Thomas H.Cormen, Clifford Stein](https://github.com/calvint/AlgorithmsOneProblems/blob/master/Algorithms/Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest%2C%20Clifford%20Stein%20Introduction%20to%20Algorithms%2C%20Third%20Edition%20%202009.pdf)
