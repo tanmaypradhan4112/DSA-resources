@@ -80,4 +80,12 @@ _Topics to cover_:
 - [Grokking Algorithms -Aditya Bhargava](https://media.indianpdf.com/visitors-uploaded/Grokking-Algorithms_-An-illustrated-guide-for-programmers-and-other-curious-people_.pdf)
 ----------------
 
-
+### DSA Sheets
+- [Geeks for Geeks](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
+- [Apna College 375 Problems](https://docs.google.com/spreadsheets/u/0/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview)
+- [Love Babbar](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+- [Striver 180 Problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+- [Siddharth Singh 450 Problems](https://docs.google.com/spreadsheets/u/0/d/11tevcTIBQsIvRKIZLbSzCeN4mCO6wD4O5meyrAIfSXw/htmlview)
+- [Fraz 250 Problems](https://docs.google.com/spreadsheets/u/0/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/htmlview)
+- [Arsh Goyal 280 Problems](https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/htmlview?usp=sharing&pru=AAABgKkdtIE*rPv8dPkWyOpfwjprKvKSeA)
+- [The Code Skool](https://docs.google.com/document/u/0/d/1RxKKXJtErQFJjMfAh1kV-DyQsZoiESayimFx6PPIhVE/mobilebasic)
