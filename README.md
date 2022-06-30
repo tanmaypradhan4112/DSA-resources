@@ -68,6 +68,8 @@ _Topics to cover_:
 - CodeStudio
 
 ### Youtube for DS
+- [Aditya Verma](https://www.youtube.com/c/AdityaVermaTheProgrammingLord/playlists)
+- [Take you forward](https://www.youtube.com/c/takeUforward/playlists)
 - [CodewithHarry](https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
 - [Apna College](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - [LoveBabbar](https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
