@@ -52,10 +52,31 @@ _Topics to cover_:
     - [Codechef](https://www.codechef.com/)
 
 ## ROADMAP TO DS
-### WEEK 1 : [ARRAY] and "STRINGS"
-  Topics to look for
-    - 
-
+### WEEK 1: [ARRAY] and "STRINGS"
+  Topics to look for in Array:
+   - Properties of Array
+   - Memory allocation of Array
+   - Operation on Array
+   - 2D Array
+   
+  Topics to look for in Strings:
+   - Basic Concepts
+   - Operation on Strings
+   - Function of Strings
+   - String manipulation
+   - String conversion
+    
+ ### WEEK 2: LINKED-->LIST
+   Topics to for in Linked List:
+   - Declaration of Linked List
+   - Basic operation
+   - Linked List Classification
+   - Singly linked list
+   - Doubly linked list
+   - Circular Singly linked list
+   - Circular Doubly linked list
+   - Basic operation
+### WEEK 3: 
 
 
 ## Resources
