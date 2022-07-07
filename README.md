@@ -37,7 +37,6 @@ _Topics to cover_:
 - [Stack](https://www.journaldev.com/35172/stack-in-c#:~:text=A%20stack%20is%20a%20linear,at%20one%20endpoint%20of%20it.)
 - [Queue](https://www.journaldev.com/36220/queue-in-c#:~:text=A%20queue%20in%20C%20is,a%20bus%2Dticket%20booking%20stall.)
 - [Tree](https://www.geeksforgeeks.org/introduction-to-tree-data-structure/)
-- [Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
 - [Graph](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/)
 - [Heap](https://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm)
 - [Hashing](https://www.section.io/engineering-education/hashing-in-data-structures/#:~:text=Hashing%20is%20the%20process%20of,table%20called%20a%20hash%20table.)
@@ -58,6 +57,7 @@ _Topics to cover_:
    - Memory allocation of Array
    - Operation on Array
    - 2D Array
+   - Matrix using Array
    
   Topics to look for in Strings:
    - Basic Concepts
@@ -67,7 +67,6 @@ _Topics to cover_:
    - String conversion
     
  ### WEEK 2: LINKED-->LIST
-   Topics to for in Linked List:
    - Declaration of Linked List
    - Basic operation
    - Linked List Classification
@@ -76,7 +75,41 @@ _Topics to cover_:
    - Circular Singly linked list
    - Circular Doubly linked list
    - Basic operation
-### WEEK 3: 
+   
+### WEEK 3: [[STACK]] and Q-U-E-U-E
+ Topics to look for in Stack:
+   - Working Of Stack
+   - Stack Operation
+   - Array Implementation
+   - Linked List Implementation
+   
+ Topics to look for in Queue:
+   - Working of Queue
+   - Queue operation
+   - Types of Queue
+   - Array Implementation
+   - Linked List Implemantation
+
+### WEEK 4: Tree ⍋
+   - Basic terms of Tree
+   - Implementation and Application of Tree
+   - Binary Tree
+   - Binary Search Tree
+   - B Tree
+   - B+ Tree
+   
+### WEEK 5: Graph 
+   - Types of Graphs
+   - Implementation of Graph
+   - Spanning Tree
+   - Algorithm related Graph (Will be covered further..)
+### WEEK 6: Heap
+   - Introduction to Heap
+   - Implementation and Application of Heap
+   - Min Heap
+   - Max Heap
+### WEEK 7: Hashing
+   - 
 
 
 ## Resources
