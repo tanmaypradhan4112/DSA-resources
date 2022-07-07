@@ -41,6 +41,19 @@ _Topics to cover_:
 - [Heap](https://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm)
 - [Hashing](https://www.section.io/engineering-education/hashing-in-data-structures/#:~:text=Hashing%20is%20the%20process%20of,table%20called%20a%20hash%20table.)
 
+### Learn about Algorithms
+_Topics to cover_:
+- [Searching](https://www.javatpoint.com/data-structure-array)
+- [Strings](https://www.tutorialandexample.com/strings-in-data-structures)
+- [Searching and Sorting](https://www.lkouniv.ac.in/site/writereaddata/siteContent/202003251324427324himanshu_Searching_Sorting.pdf)
+- [Linked list](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+- [Stack](https://www.journaldev.com/35172/stack-in-c#:~:text=A%20stack%20is%20a%20linear,at%20one%20endpoint%20of%20it.)
+- [Queue](https://www.journaldev.com/36220/queue-in-c#:~:text=A%20queue%20in%20C%20is,a%20bus%2Dticket%20booking%20stall.)
+- [Tree](https://www.geeksforgeeks.org/introduction-to-tree-data-structure/)
+- [Graph](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/)
+- [Heap](https://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm)
+- [Hashing](https://www.section.io/engineering-education/hashing-in-data-structures/#:~:text=Hashing%20is%20the%20process%20of,table%20called%20a%20hash%20table.)
+
 ### Practice problems related to DSA
   - _Online Judges_:
     - [Leetcode](https://leetcode.com/problemset/all/)
@@ -49,9 +62,10 @@ _Topics to cover_:
     - [HackerRank](https://www.hackerrank.com/)
     - [VJudge](https://vjudge.net/problem)
     - [Codechef](https://www.codechef.com/)
+---------------------------------------------------------
 
 ## ROADMAP TO DS
-### WEEK 1: [ARRAY] and "STRINGS"
+### WEEK 1: [A,R,R,A,Y] and "STRINGS"
   Topics to look for in Array:
    - Properties of Array
    - Memory allocation of Array
@@ -103,21 +117,65 @@ _Topics to cover_:
    - Implementation of Graph
    - Spanning Tree
    - Algorithm related Graph (Will be covered further..)
+   
 ### WEEK 6: Heap
    - Introduction to Heap
    - Implementation and Application of Heap
    - Min Heap
    - Max Heap
+   
 ### WEEK 7: Hashing
    - Intrduction to Hashing
    - Hashing operation
    - Hash Functions
    - Collision Hash Techniques
    - Implementation of Hashing
+---------------------------------
 
+## Roadmap to Algoritms
+### WEEK 1: Searching
+   - Linear Search
+   - Binary Search
+   - Implementation of Searching
+
+### WEEK 2: Sorting
+   - Selection Sort
+   - Inserton Sort
+   - Bubble Sort
+   - Merge Sort
+   - Quick Sort
+
+### WEEK 3: Divide and Conquer
+   - Terminology of DAC
+   - Divide & Conquer Approach
+   - Applications of Divide & Conquer
+
+### WEEK 4: Greedy Method
+   - Job Sequencing with deadlines
+   - Knapsack algorithm
+   - MST algorithm
+   - Dijkstra algorithm
+   
+### WEEK 5: Recursion
+   - Intro to Recursion
+   - Implementation
+
+### WEEK 6: Dynamic Programming
+   - Optimal Binary Search Tree
+   - 0/1 knapsack
+   - Travelling sales person
+   - All pair shorest path
+   - Reliability Design
+
+### WEEK 7: BackTracking
+   - N-Queens
+   - Graph Coloring
+   - Sum of Subsets
+   - Hamiltonian Cycles
+---------------------------------
 
 ## Resources
-### Website for DS:
+### Website for DSA:
 - Geeks for Geeks
 - Tutorialspoint
 - Javapoint
@@ -125,7 +183,7 @@ _Topics to cover_:
 - Freecodecamp
 - CodeStudio
 
-### Youtube for DS
+### Youtube for DSA
 - [Aditya Verma](https://www.youtube.com/c/AdityaVermaTheProgrammingLord/playlists)
 - [Take you forward](https://www.youtube.com/c/takeUforward/playlists)
 - [CodewithHarry](https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
@@ -134,12 +192,11 @@ _Topics to cover_:
 - [Kunal Kushwaha](https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
 
-### E-books for DS
+### E-books for DSA
 - [Data Structures and Algorithm Made Easy -Narasimha Karumanchi](https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html)
 - [Classic Data Structures -Debasis Samanta](https://sonucgn.files.wordpress.com/2018/01/data-structures-by-d-samantha.pdf)
 - [Introduction to Algorithm -Thomas H.Cormen, Clifford Stein](https://github.com/calvint/AlgorithmsOneProblems/blob/master/Algorithms/Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest%2C%20Clifford%20Stein%20Introduction%20to%20Algorithms%2C%20Third%20Edition%20%202009.pdf)
 - [Grokking Algorithms -Aditya Bhargava](https://media.indianpdf.com/visitors-uploaded/Grokking-Algorithms_-An-illustrated-guide-for-programmers-and-other-curious-people_.pdf)
-----------------
 
 ### DSA Sheets
 - [Geeks for Geeks](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
