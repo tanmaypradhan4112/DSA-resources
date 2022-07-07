@@ -76,7 +76,7 @@ _Topics to cover_:
    - Circular Doubly linked list
    - Basic operation
    
-### WEEK 3: [[STACK]] and Q-U-E-U-E
+### WEEK 3: [S][T][A][C][K] and Q-U-E-U-E
  Topics to look for in Stack:
    - Working Of Stack
    - Stack Operation
@@ -109,7 +109,11 @@ _Topics to cover_:
    - Min Heap
    - Max Heap
 ### WEEK 7: Hashing
-   - 
+   - Intrduction to Hashing
+   - Hashing operation
+   - Hash Functions
+   - Collision Hash Techniques
+   - Implementation of Hashing
 
 
 ## Resources
