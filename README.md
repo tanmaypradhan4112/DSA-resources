@@ -43,25 +43,22 @@ _Topics to cover_:
 
 ### Learn about Algorithms
 _Topics to cover_:
-- [Searching](https://www.javatpoint.com/data-structure-array)
-- [Strings](https://www.tutorialandexample.com/strings-in-data-structures)
-- [Searching and Sorting](https://www.lkouniv.ac.in/site/writereaddata/siteContent/202003251324427324himanshu_Searching_Sorting.pdf)
-- [Linked list](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
-- [Stack](https://www.journaldev.com/35172/stack-in-c#:~:text=A%20stack%20is%20a%20linear,at%20one%20endpoint%20of%20it.)
-- [Queue](https://www.journaldev.com/36220/queue-in-c#:~:text=A%20queue%20in%20C%20is,a%20bus%2Dticket%20booking%20stall.)
-- [Tree](https://www.geeksforgeeks.org/introduction-to-tree-data-structure/)
-- [Graph](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/)
-- [Heap](https://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm)
-- [Hashing](https://www.section.io/engineering-education/hashing-in-data-structures/#:~:text=Hashing%20is%20the%20process%20of,table%20called%20a%20hash%20table.)
+- [Searching](https://www.studytonight.com/data-structures/search-algorithms)
+- [Sorting](https://betterprogramming.pub/5-basic-sorting-algorithms-you-must-know-9ef5b1f3949c)
+- [Divide and Conquer](https://www.programiz.com/dsa/divide-and-conquer)
+- [Greedy Method](https://www.tutorialspoint.com/data_structures_algorithms/greedy_algorithms.htm)
+- [Recursion](https://www.tutorialspoint.com/data_structures_algorithms/recursion_basics.htm#:~:text=Some%20computer%20programming%20languages%20allow,calls%20the%20original%20function%20%CE%B1.)
+- [Dynamic Programming](https://www.programiz.com/dsa/dynamic-programming#:~:text=Dynamic%20Programming%20is%20a%20technique,subproblems%20and%20optimal%20substructure%20property.)
+- [Backtracking](https://www.programiz.com/dsa/backtracking-algorithm)
 
 ### Practice problems related to DSA
-  - _Online Judges_:
-    - [Leetcode](https://leetcode.com/problemset/all/)
-    - [CodeForces](https://codeforces.com/)
-    - [HackerEarth](https://www.hackerearth.com/)
-    - [HackerRank](https://www.hackerrank.com/)
-    - [VJudge](https://vjudge.net/problem)
-    - [Codechef](https://www.codechef.com/)
+_Online Judges_:
+ - [Leetcode](https://leetcode.com/problemset/all/)
+ - [CodeForces](https://codeforces.com/)
+ - [HackerEarth](https://www.hackerearth.com/)
+ - [HackerRank](https://www.hackerrank.com/)
+ - [VJudge](https://vjudge.net/problem)
+ - [Codechef](https://www.codechef.com/)
 ---------------------------------------------------------
 
 ## ROADMAP TO DS
