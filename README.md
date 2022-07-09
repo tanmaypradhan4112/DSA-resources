@@ -101,7 +101,7 @@ _Online Judges_:
    - Array Implementation
    - Linked List Implemantation
 
-### WEEK 4: Tree ⍋
+### WEEK 4: TREE ⍋
    - Basic terms of Tree
    - Implementation and Application of Tree
    - Binary Tree
@@ -109,19 +109,19 @@ _Online Judges_:
    - B Tree
    - B+ Tree
    
-### WEEK 5: Graph 
+### WEEK 5: GRAPH
    - Types of Graphs
    - Implementation of Graph
    - Spanning Tree
    - Algorithm related Graph (Will be covered further..)
    
-### WEEK 6: Heap
+### WEEK 6: HEAP
    - Introduction to Heap
    - Implementation and Application of Heap
    - Min Heap
    - Max Heap
    
-### WEEK 7: Hashing
+### WEEK 7: HASHING
    - Intrduction to Hashing
    - Hashing operation
    - Hash Functions
@@ -130,41 +130,41 @@ _Online Judges_:
 ---------------------------------
 
 ## Roadmap to Algoritms
-### WEEK 1: Searching
+### WEEK 1: SEARCHING
    - Linear Search
    - Binary Search
    - Implementation of Searching
 
-### WEEK 2: Sorting
+### WEEK 2: SORTING
    - Selection Sort
    - Inserton Sort
    - Bubble Sort
    - Merge Sort
    - Quick Sort
 
-### WEEK 3: Divide and Conquer
+### WEEK 3: DIVIDE AND CONQUER
    - Terminology of DAC
    - Divide & Conquer Approach
    - Applications of Divide & Conquer
 
-### WEEK 4: Greedy Method
+### WEEK 4: GREEDY METHOD
    - Job Sequencing with deadlines
    - Knapsack algorithm
    - MST algorithm
    - Dijkstra algorithm
    
-### WEEK 5: Recursion
+### WEEK 5: RECURSION
    - Intro to Recursion
    - Implementation
 
-### WEEK 6: Dynamic Programming
+### WEEK 6: DYNAMIC PROGRAMMING
    - Optimal Binary Search Tree
    - 0/1 knapsack
    - Travelling sales person
    - All pair shorest path
    - Reliability Design
 
-### WEEK 7: BackTracking
+### WEEK 7: BACKTRACKING
    - N-Queens
    - Graph Coloring
    - Sum of Subsets
